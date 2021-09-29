@@ -1,10 +1,14 @@
 .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   border: 1px;
   border-radius: 1em;
   padding: 50px 20px 50px;
   font-size: 2em;
   color: #fff;
   background-color: #6eba44;
+  height: 96px;
   max-width: 600px;
   margin: 90px auto 50px auto;
 }
