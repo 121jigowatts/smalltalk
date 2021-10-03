@@ -29,7 +29,7 @@ Launch the application.
 yarn start
 ```
 
-Access http: // localhost: 3000 with your browser.
+Access [http://localhost:3000](http://localhost:3000) with your browser.
 
 ## Contribution
 
